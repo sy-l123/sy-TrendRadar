@@ -1,18 +1,18 @@
-AI 伦理
-AI 成人
+AI伦理
+AI成人
 
-AI 人才战
-AI 教育
-AI 学习
+AI人才战
+AI教育
+AI学习
 
-AI 开源生态
-AI 商业化
-AI 独角兽
-AI 投资
+AI开源生态
+AI商业化
+AI独角兽
+AI投资
 
-AI 科技
-AI 突破
-AI 医疗
+AI科技
+AI突破
+AI医疗
 
 [GLOBAL_FILTER]
 广告
